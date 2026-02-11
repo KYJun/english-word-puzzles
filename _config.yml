@@ -1,0 +1,64 @@
+# Site Settings
+title: "Today's English Word Puzzles"
+description: "매일 업데이트되는 영어 단어 퍼즐 정답과 영어 학습 팁"
+url: "" # GitHub Pages URL (예: https://your-username.github.io)
+baseurl: "/english-word-puzzles" # 레포지토리 이름
+lang: ko
+
+# Author
+author:
+  name: "English Puzzle Guide"
+  email: ""
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:year/:month/:day/:title/
+
+# Plugins (GitHub Pages 지원)
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  games:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "English Puzzle Guide"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Pagination (optional)
+# paginate: 10
+# paginate_path: "/page:num/"
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - scripts/
+
+# Google Analytics (나중에 추가)
+# google_analytics: "G-XXXXXXXXXX"
+
+# 카테고리
+category_list:
+  - Bonza
+  - Crossover
+  - Waywords
+  - Keysmash
+  - LinkedIn Puzzles
+  - English Tips

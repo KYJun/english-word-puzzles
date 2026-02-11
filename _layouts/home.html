@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<section class="hero">
+  <h1>🧩 {{ site.title }}</h1>
+  <p>{{ site.description }}</p>
+</section>
+
+<!-- Game Category Filter -->
+<section class="category-filter">
+  <a href="{{ '/' | relative_url }}" class="filter-btn active">All</a>
+  {% for cat in site.category_list %}
+  <a href="{{ '/' | relative_url }}?cat={{ cat | slugify }}" class="filter-btn">{{ cat }}</a>
+  {% endfor %}
+</section>
+
+<!-- Posts List -->
+<section class="posts-grid">
+  {% for post in site.posts limit:20 %}
+  <article class="post-card">
+    <div class="post-meta">
+      <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y년 %m월 %d일" }}</time>
+      {% for tag in post.tags limit:2 %}
+      <span class="tag">{{ tag }}</span>
+      {% endfor %}
+    </div>
+    <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+    <p>{{ post.excerpt | strip_html | truncate: 120 }}</p>
+    <a href="{{ post.url | relative_url }}" class="read-more">자세히 보기 →</a>
+  </article>
+  {% endfor %}
+</section>
+
+{{ content }}

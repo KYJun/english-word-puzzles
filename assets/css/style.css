@@ -1,0 +1,358 @@
+---
+---
+
+/* ===== Reset & Base ===== */
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --primary: #4F46E5;
+  --primary-light: #818CF8;
+  --bg: #FAFAFA;
+  --bg-card: #FFFFFF;
+  --text: #1F2937;
+  --text-light: #6B7280;
+  --border: #E5E7EB;
+  --accent: #F59E0B;
+  --success: #10B981;
+  --radius: 12px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.06);
+  --shadow-lg: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+body {
+  font-family: 'Noto Sans KR', 'Inter', -apple-system, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.7;
+  font-size: 16px;
+}
+
+a {
+  color: var(--primary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover {
+  color: var(--primary-light);
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+/* ===== Header ===== */
+.site-header {
+  background: var(--bg-card);
+  border-bottom: 1px solid var(--border);
+  padding: 16px 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.site-logo {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: var(--text);
+}
+
+.site-nav {
+  display: flex;
+  gap: 24px;
+}
+
+.site-nav a {
+  color: var(--text-light);
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.site-nav a:hover {
+  color: var(--primary);
+}
+
+/* ===== Hero ===== */
+.hero {
+  text-align: center;
+  padding: 48px 0 32px;
+}
+
+.hero h1 {
+  font-size: 2rem;
+  margin-bottom: 8px;
+  color: var(--text);
+}
+
+.hero p {
+  color: var(--text-light);
+  font-size: 1.05rem;
+}
+
+/* ===== Category Filter ===== */
+.category-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  justify-content: center;
+  padding: 16px 0 32px;
+}
+
+.filter-btn {
+  display: inline-block;
+  padding: 6px 16px;
+  border-radius: 20px;
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  color: var(--text-light);
+  font-size: 0.85rem;
+  font-weight: 500;
+  transition: all 0.2s;
+}
+.filter-btn:hover, .filter-btn.active {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+/* ===== Posts Grid ===== */
+.posts-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  padding-bottom: 48px;
+}
+
+.post-card {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 24px;
+  box-shadow: var(--shadow);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+.post-card:hover {
+  box-shadow: var(--shadow-lg);
+  transform: translateY(-2px);
+}
+
+.post-card h2 {
+  font-size: 1.2rem;
+  margin: 8px 0;
+}
+.post-card h2 a {
+  color: var(--text);
+}
+.post-card h2 a:hover {
+  color: var(--primary);
+}
+
+.post-card p {
+  color: var(--text-light);
+  font-size: 0.95rem;
+  margin-bottom: 12px;
+}
+
+.read-more {
+  font-size: 0.9rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+/* ===== Post Meta ===== */
+.post-meta {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.post-meta time {
+  color: var(--text-light);
+  font-size: 0.85rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 12px;
+  background: #EEF2FF;
+  color: var(--primary);
+  font-size: 0.78rem;
+  font-weight: 500;
+}
+
+.game-badge {
+  display: inline-block;
+  padding: 3px 12px;
+  border-radius: 12px;
+  background: var(--accent);
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 600;
+}
+
+/* ===== Post Full ===== */
+.post-full {
+  padding: 32px 0 48px;
+}
+
+.post-header {
+  margin-bottom: 32px;
+}
+
+.post-header h1 {
+  font-size: 1.8rem;
+  margin: 12px 0;
+  line-height: 1.4;
+}
+
+.post-tags {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin-top: 8px;
+}
+
+/* ===== Post Content ===== */
+.post-content {
+  font-size: 1.05rem;
+  line-height: 1.85;
+}
+
+.post-content h2 {
+  font-size: 1.4rem;
+  margin: 32px 0 12px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid var(--border);
+}
+
+.post-content h3 {
+  font-size: 1.15rem;
+  margin: 24px 0 8px;
+}
+
+.post-content p {
+  margin-bottom: 16px;
+}
+
+.post-content ul, .post-content ol {
+  margin: 12px 0 16px 24px;
+}
+
+.post-content li {
+  margin-bottom: 6px;
+}
+
+.post-content code {
+  background: #F3F4F6;
+  padding: 2px 6px;
+  border-radius: 4px;
+  font-size: 0.9em;
+}
+
+.post-content blockquote {
+  border-left: 4px solid var(--primary);
+  padding: 12px 20px;
+  margin: 16px 0;
+  background: #F9FAFB;
+  border-radius: 0 8px 8px 0;
+  color: var(--text-light);
+}
+
+.post-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 16px 0;
+}
+
+.post-content th, .post-content td {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  text-align: left;
+}
+
+.post-content th {
+  background: #F3F4F6;
+  font-weight: 600;
+}
+
+/* ===== English Tip Box ===== */
+.english-tip-box {
+  background: linear-gradient(135deg, #EEF2FF, #E0E7FF);
+  border: 1px solid var(--primary-light);
+  border-radius: var(--radius);
+  padding: 24px;
+  margin: 32px 0;
+}
+
+.english-tip-box h3 {
+  color: var(--primary);
+  margin-bottom: 8px;
+}
+
+/* ===== Post Navigation ===== */
+.post-nav {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 48px;
+  padding-top: 24px;
+  border-top: 1px solid var(--border);
+}
+
+.nav-prev, .nav-next {
+  font-size: 0.9rem;
+  color: var(--text-light);
+}
+.nav-prev:hover, .nav-next:hover {
+  color: var(--primary);
+}
+
+/* ===== Page Content ===== */
+.page-content {
+  padding: 32px 0 48px;
+}
+
+.page-content h1 {
+  font-size: 1.8rem;
+  margin-bottom: 24px;
+}
+
+/* ===== Footer ===== */
+.site-footer {
+  text-align: center;
+  padding: 32px 0;
+  border-top: 1px solid var(--border);
+  color: var(--text-light);
+  font-size: 0.85rem;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 640px) {
+  .hero h1 {
+    font-size: 1.5rem;
+  }
+  
+  .header-inner {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .site-nav {
+    gap: 16px;
+  }
+
+  .post-header h1 {
+    font-size: 1.4rem;
+  }
+}
