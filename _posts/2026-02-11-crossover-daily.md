@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: single
 title: "Crossover 정답 (2026년 2월 11일)"
 date: 2026-02-11
-game: "Crossover"
+categories: [Crossover]
 tags: [Crossover, Netflix, 영어단어]
+game: "Crossover"
 english_tip: "'Intersect'는 '교차하다'라는 뜻입니다. 도로, 선, 의견 등이 만나는 상황에 사용할 수 있어요. 'Our paths intersected at the conference.'"
+toc: true
+toc_label: "목차"
+toc_sticky: true
 ---
 
 ## 오늘의 Crossover 퍼즐 🔀

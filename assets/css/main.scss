@@ -1,0 +1,96 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* ===== Custom Styles for English Word Puzzles Blog ===== */
+
+/* English Tip Box */
+.english-tip-box {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  border: 2px solid #818cf8;
+  border-radius: 12px;
+  padding: 24px 28px;
+  margin: 32px 0;
+  position: relative;
+  overflow: hidden;
+}
+
+.english-tip-box::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 4px;
+  background: linear-gradient(135deg, #6366f1, #a78bfa);
+}
+
+.english-tip-box h3 {
+  color: #a5b4fc;
+  margin-bottom: 8px;
+  font-weight: 700;
+}
+
+.english-tip-box p {
+  color: #cbd5e1;
+  line-height: 1.75;
+}
+
+/* Better table styling */
+.page__content table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.page__content th {
+  background-color: rgba(99, 102, 241, 0.15);
+  color: #818cf8;
+  font-weight: 700;
+}
+
+/* Blockquote styling */
+.page__content blockquote {
+  border-left: 4px solid #6366f1;
+  background: rgba(99, 102, 241, 0.06);
+  border-radius: 0 8px 8px 0;
+  padding: 16px 20px;
+  font-style: normal;
+}
+
+/* Game badge in posts */
+.game-badge {
+  display: inline-block;
+  padding: 4px 14px;
+  border-radius: 100px;
+  background: linear-gradient(135deg, #f59e0b, #f97316);
+  color: white;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+/* Masthead customization */
+.masthead {
+  border-bottom: 2px solid rgba(99, 102, 241, 0.3);
+}
+
+/* Archive item hover */
+.archive__item:hover {
+  .archive__item-title a {
+    color: #818cf8;
+  }
+}
+
+/* Tag styling */
+.page__taxonomy a {
+  border-radius: 100px !important;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}

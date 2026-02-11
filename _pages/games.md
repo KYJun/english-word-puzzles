@@ -1,12 +1,14 @@
 ---
-layout: page
+layout: single
 title: "게임별 보기"
 permalink: /games/
+author_profile: true
+toc: true
+toc_label: "게임 목록"
+toc_sticky: true
 ---
 
-## 🎮 게임별 퍼즐 정답 모아보기
-
-### 🧩 Bonza
+## 🧩 Bonza
 테마별 영어 단어 조각을 맞추는 크로스워드 퍼즐
 
 {% for post in site.posts %}{% if post.game == "Bonza" %}
@@ -15,7 +17,7 @@ permalink: /games/
 
 ---
 
-### 🔀 Crossover
+## 🔀 Crossover
 교차하는 단어를 찾아 완성하는 퍼즐
 
 {% for post in site.posts %}{% if post.game == "Crossover" %}
@@ -24,7 +26,7 @@ permalink: /games/
 
 ---
 
-### 🛤️ Waywords
+## 🛤️ Waywords
 연결된 단어 경로를 찾는 게임
 
 {% for post in site.posts %}{% if post.game == "Waywords" %}
@@ -33,7 +35,7 @@ permalink: /games/
 
 ---
 
-### ⌨️ Keysmash
+## ⌨️ Keysmash
 뒤섞인 글자에서 단어를 찾아내는 게임
 
 {% for post in site.posts %}{% if post.game == "Keysmash" %}

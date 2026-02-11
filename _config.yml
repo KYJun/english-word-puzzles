@@ -1,25 +1,54 @@
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+minimal_mistakes_skin: "dark" # air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
 # Site Settings
+locale: "ko-KR"
 title: "Today's English Word Puzzles"
+subtitle: "매일 영어 퍼즐 정답 & 학습 팁"
+name: "English Puzzle Guide"
 description: "매일 업데이트되는 영어 단어 퍼즐 정답과 영어 학습 팁"
 url: "" # GitHub Pages URL (예: https://your-username.github.io)
-baseurl: "/english-word-puzzles" # 레포지토리 이름
-lang: ko
+baseurl: "/english-word-puzzles"
+repository: # "username/english-word-puzzles"
+logo: # 로고 이미지 경로
+masthead_title: "🧩 Today's English Word Puzzles"
+
+# Search
+search: true
+search_full_content: true
+search_provider: lunr
 
 # Author
 author:
   name: "English Puzzle Guide"
-  email: ""
+  bio: "매일 영어 퍼즐 정답과 학습 팁을 제공합니다"
+  location: "Korea"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: # "https://github.com/your-username"
 
 # Build Settings
 markdown: kramdown
 highlighter: rouge
 permalink: /:year/:month/:day/:title/
 
-# Plugins (GitHub Pages 지원)
+# Plugins
 plugins:
-  - jekyll-feed
+  - jekyll-paginate
   - jekyll-sitemap
-  - jekyll-seo-tag
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-remote-theme
+
+# Pagination
+paginate: 10
+paginate_path: /page:num/
+
+# Reading
+words_per_minute: 200
 
 # Collections
 collections:
@@ -28,21 +57,39 @@ collections:
 
 # Defaults
 defaults:
+  # _posts
   - scope:
       path: ""
-      type: "posts"
+      type: posts
     values:
-      layout: "post"
-      author: "English Puzzle Guide"
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      show_date: true
+      toc: true
+      toc_label: "목차"
+      toc_sticky: true
+  # _pages
   - scope:
       path: ""
-      type: "pages"
+      type: pages
     values:
-      layout: "page"
+      layout: single
+      author_profile: true
 
-# Pagination (optional)
-# paginate: 10
-# paginate_path: "/page:num/"
+# Category & Tag Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# Outputting
+timezone: Asia/Seoul
 
 # Exclude
 exclude:
@@ -50,15 +97,10 @@ exclude:
   - Gemfile.lock
   - README.md
   - scripts/
+  - vendor/
 
 # Google Analytics (나중에 추가)
-# google_analytics: "G-XXXXXXXXXX"
-
-# 카테고리
-category_list:
-  - Bonza
-  - Crossover
-  - Waywords
-  - Keysmash
-  - LinkedIn Puzzles
-  - English Tips
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "G-XXXXXXXXXX"

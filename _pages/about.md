@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: single
 title: "소개"
 permalink: /about/
+author_profile: true
 ---
 
 ## Today's English Word Puzzles에 오신 것을 환영합니다! 🧩

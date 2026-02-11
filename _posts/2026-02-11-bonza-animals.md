@@ -1,10 +1,14 @@
 ---
-layout: post
+layout: single
 title: "Bonza 정답 (2026년 2월 11일) - 테마: Animals"
 date: 2026-02-11
-game: "Bonza"
+categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어, Animals]
+game: "Bonza"
 english_tip: "'Mammal'은 젖을 먹여 새끼를 키우는 동물을 뜻합니다. 'Mammals nurse their young with milk.' 처럼 사용할 수 있어요."
+toc: true
+toc_label: "목차"
+toc_sticky: true
 ---
 
 ## 오늘의 Bonza 퍼즐
