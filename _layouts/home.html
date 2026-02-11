@@ -3,7 +3,7 @@ layout: default
 ---
 
 <section class="hero">
-  <h1>🧩 {{ site.title }}</h1>
+  <h1>{{ site.title }}</h1>
   <p>{{ site.description }}</p>
 </section>
 
@@ -21,6 +21,9 @@ layout: default
   <article class="post-card">
     <div class="post-meta">
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%Y년 %m월 %d일" }}</time>
+      {% if post.game %}
+      <span class="game-badge">{{ post.game }}</span>
+      {% endif %}
       {% for tag in post.tags limit:2 %}
       <span class="tag">{{ tag }}</span>
       {% endfor %}
