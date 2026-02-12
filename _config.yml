@@ -91,6 +91,10 @@ tag_archive:
 # Outputting
 timezone: Asia/Seoul
 
+# Include
+include:
+  - _pages
+
 # Exclude
 exclude:
   - Gemfile
