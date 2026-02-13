@@ -8,9 +8,9 @@ title: "Today's English Word Puzzles"
 subtitle: "매일 영어 퍼즐 정답 & 학습 팁"
 name: "English Puzzle Guide"
 description: "매일 업데이트되는 영어 단어 퍼즐 정답과 영어 학습 팁"
-url: "" # GitHub Pages URL (예: https://your-username.github.io)
+url: "https://kyjun.github.io"
 baseurl: "/english-word-puzzles"
-repository: # "username/english-word-puzzles"
+repository: "KYJun/english-word-puzzles"
 logo: # 로고 이미지 경로
 masthead_title: "🧩 Today's English Word Puzzles"
 
@@ -24,10 +24,7 @@ author:
   name: "English Puzzle Guide"
   bio: "매일 영어 퍼즐 정답과 학습 팁을 제공합니다"
   location: "Korea"
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: # "https://github.com/your-username"
+  links: []
 
 # Build Settings
 markdown: kramdown
@@ -65,7 +62,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false
+      comments: true
       share: true
       related: true
       show_date: true
@@ -102,6 +99,18 @@ exclude:
   - README.md
   - scripts/
   - vendor/
+
+# Comments (Giscus)
+comments:
+  provider: "giscus"
+  giscus:
+    repo_id: "R_kgDORN1xyQ"
+    category_name: "Announcements"
+    category_id: "DIC_kwDORN1xyc4C2VU2"
+    discussion_term: "pathname"
+    reactions_enabled: "1"
+    theme: "light"
+    lang: "ko"
 
 # Google Analytics (나중에 추가)
 # analytics:
