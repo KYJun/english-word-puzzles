@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza 2026-02-12 "반복의 가치""
+title: "Netflix Puzzled Bonza 2026-02-12 - 반복의 가치"
 date: 2026-02-12
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]
