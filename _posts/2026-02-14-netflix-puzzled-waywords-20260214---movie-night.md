@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Waywords 2026.02.14 - Movie Night 영어 표현 완벽 가이드"
+title: "Netflix Puzzled Waywords (2026-02-14) - Movie Night 영어 표현 완벽 가이드"
 date: 2026-02-14
 categories: [Waywords]
 tags: [Waywords, Netflix, 영어단어]

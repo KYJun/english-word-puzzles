@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza 2월 14일 - 친구들과의 우정 표현하기"
+title: "Netflix Puzzled Bonza (2026-02-14) - 친구들과의 우정 표현하기"
 date: 2026-02-14
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]

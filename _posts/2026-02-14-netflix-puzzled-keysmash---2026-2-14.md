@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Keysmash - 2026년 2월 14일 발렌타인 데이 특집 🌹"
+title: "Netflix Puzzled Keysmash (2026-02-14) 발렌타인 데이 특집 🌹"
 date: 2026-02-14
 categories: [Keysmash]
 tags: [Keysmash, Netflix, 영어단어]

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Waywords 2026-02-12: 80's 문화 속으로의 시간 여행"
+title: "Netflix Puzzled Waywords (2026-02-12): 80's 문화 속으로의 시간 여행"
 date: 2026-02-12
 categories: [Waywords]
 tags: [Waywords, Netflix, 영어단어]
