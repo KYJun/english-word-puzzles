@@ -100,17 +100,11 @@ exclude:
   - scripts/
   - vendor/
 
-# Comments (Giscus)
+# Comments (Disqus)
 comments:
-  provider: "giscus"
-  giscus:
-    repo_id: "R_kgDORN1xyQ"
-    category_name: "Announcements"
-    category_id: "DIC_kwDORN1xyc4C2VU2"
-    discussion_term: "pathname"
-    reactions_enabled: "1"
-    theme: "light"
-    lang: "ko"
+  provider: "disqus"
+  disqus:
+    shortname: "english-word-puzzles"
 
 # Google Analytics (나중에 추가)
 # analytics:
