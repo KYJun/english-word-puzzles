@@ -49,7 +49,7 @@ toc_sticky: true
 
 {% for post in site.posts %}{% if post.game == "Pinpoint" %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%Y.%m.%d" }}
-{% endif %}{% endfor %}{% endraw %}
+{% endif %}{% endfor %}
 
 ---
 
@@ -58,7 +58,7 @@ toc_sticky: true
 
 {% for post in site.posts %}{% if post.game == "Wordle" %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%Y.%m.%d" }}
-{% endif %}{% endfor %}{% endraw %}
+{% endif %}{% endfor %}
 
 ---
 
@@ -67,4 +67,4 @@ toc_sticky: true
 
 {% for post in site.posts %}{% if post.game == "Connections" %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — {{ post.date | date: "%Y.%m.%d" }}
-{% endif %}{% endfor %}{% endraw %}
+{% endif %}{% endfor %}

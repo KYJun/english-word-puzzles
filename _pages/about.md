@@ -115,6 +115,9 @@ Netflix Puzzled는 넷플릭스에서 제공하는 무료 일일 퍼즐 게임 �
    - 예: "Wordplay" (말장난) 테마 - PALINDROME, ANAGRAM 등
 
 ---
+
+## 🎮 LinkedIn Games
+
 ## 5. Pinpoint (핀포인트) - LinkedIn
 
 **게임 설명:**
@@ -138,6 +141,7 @@ LinkedIn에서 제공하는 일일 단어 연상 퍼즐입니다. 5개의 단서
 👉 **[LinkedIn Pinpoint 플레이하러 가기](https://www.linkedin.com/games/pinpoint)**
 
 ---
+## 🎮 NYT Games
 
 ## 6. Wordle (워들) - NYT
 
