@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza (2026-02-19) | Cold로 시작하는 영어 표현들"
+title: "Netflix Puzzled Bonza (2026-02-19) Cold로 시작하는 영어 표현들"
 date: 2026-02-19
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]
