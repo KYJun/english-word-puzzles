@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kyjun.github.io/english-word-puzzles/sitemap.xml
