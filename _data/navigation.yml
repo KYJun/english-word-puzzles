@@ -9,3 +9,5 @@ main:
     url: /tags/
   - title: "소개"
     url: /about/
+  - title: "개인정보처리방침"
+    url: /privacy-policy/

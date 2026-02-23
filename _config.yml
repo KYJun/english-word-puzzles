@@ -13,6 +13,7 @@ baseurl: "/english-word-puzzles"
 repository: "KYJun/english-word-puzzles"
 logo: # 로고 이미지 경로
 masthead_title: "🧩 Today's English Word Puzzles"
+# og_image: /assets/images/og-default.png  # 1200x630px PNG 이미지 준비 후 활성화
 
 # Search
 search: true
@@ -39,6 +40,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Pagination
 paginate: 10
@@ -106,8 +108,8 @@ comments:
   disqus:
     shortname: "english-word-puzzles"
 
-# Google Analytics (나중에 추가)
-# analytics:
-#   provider: "google-gtag"
-#   google:
-#     tracking_id: "G-XXXXXXXXXX"
+# Google Analytics
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-1CLY9EPCKZ"
