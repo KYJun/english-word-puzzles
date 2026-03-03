@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 "Down to a Science"라는 흥미로운 테마로 과학과 관련된 영어 단어들을 함께 배워보겠습니다. 과학은 우리 주변의 모든 것을 설명하는 학문이며, 이를 표현하는 영어 단어들은 학문적 글쓰기와 일상 대화에서 자주 사용됩니다. 오늘 배울 다섯 개의 단어들은 모두 과학의 다양한 분야를 나타내는 중요한 어휘들입니다. 이 단어들을 마스터하면 과학 관련 영어 뉴스나 논문을 더 쉽게 이해할 수 있을 거예요!
 

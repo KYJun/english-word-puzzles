@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Keysmash 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Keysmash 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 Netflix의 인기 게임 **Puzzled Keysmash**에서 다루는 흥미로운 주제인 **"needles(바늘)"**에 대해 알아보겠습니다. 바늘이라는 단순한 물건이 우리의 일상에서 얼마나 다양한 의미로 사용되는지 살펴보면서, 영어 표현력을 함께 높여봅시다!
 

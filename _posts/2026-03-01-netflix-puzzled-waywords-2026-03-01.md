@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 전 세계적으로 사랑받는 **커피 문화**와 관련된 영어 표현들을 배워보겠습니다. 커피는 단순한 음료를 넘어 일상 속 문화이자, 국제적인 소통의 매개체입니다. 특히 카페 문화가 발달한 현대 사회에서 다양한 커피 종류를 영어로 표현하는 것은 매우 실용적인 스킬이에요. 함께 살펴보시겠습니다!
 

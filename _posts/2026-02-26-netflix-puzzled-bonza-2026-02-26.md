@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 [**Netflix Puzzled에서 Bonza 플레이하기**](https://www.netflix.com/tudum/puzzled) | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled)
+> 🎮 [**Netflix Puzzled에서 Bonza 플레이하기**](https://www.netflix.com/tudum/puzzled) | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora)
 
 안녕하세요! 오늘의 Bonza 퍼즐 테마는 **"___stock"**입니다. 각 정답 단어 뒤에 **stock**을 붙이면 하나의 완성된 단어가 되는 구조예요! **Livestock**(가축), **Laughingstock**(웃음거리), **Woodstock**(우드스탁) 등 stock이 붙으면 원래 단어와 전혀 다른 뜻이 되는 흥미로운 단어들을 만나보겠습니다. 🧩
 

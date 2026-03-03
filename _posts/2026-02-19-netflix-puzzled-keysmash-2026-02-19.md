@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Keysmash 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Keysmash 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 우리가 자주 방문하지만 항상 바쁜 마음으로 지나치는 장소, 바로 **공항(airport)**에서 볼 수 있는 영어 표현들을 배워보겠습니다. 공항은 국제적인 장소이기 때문에 영어 표지판과 안내문이 정말 많은데요, 이런 표현들을 미리 알아두면 해외 여행할 때 정말 유용합니다!
 

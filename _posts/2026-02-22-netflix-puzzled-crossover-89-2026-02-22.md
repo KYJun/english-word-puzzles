@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Crossover 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Crossover 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘도 Netflix Puzzled Crossover 퍼즐의 답변들을 통해 함께 영어를 배워보겠습니다. 이번 주차의 단어들은 일상생활에서 자주 마주치는 표현부터 드라마 관련 용어까지 다양하게 구성되어 있네요. 각 단어를 깊이 있게 살펴보면서 어휘력을 한 단계 업그레이드해봅시다!
 

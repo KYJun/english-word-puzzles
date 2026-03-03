@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Keysmash 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Keysmash 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 Netflix Puzzled Keysmash의 흥미로운 퍼즐들을 통해 우리 일상에서 자주 사용되는 영어 표현들을 함께 살펴보겠습니다. 이번 퍼즐의 테마는 특정 주제로 묶이지 않은 다양한 일상 단어들이 등장합니다. 요리, 여행, 태도, 가족 관계, 그리고 여가 활동 등 우리가 매일 접할 수 있는 주제들이 담겨 있네요. 각 단어를 자세히 분석해보면서 영어 어휘력을 함께 키워봅시다!
 

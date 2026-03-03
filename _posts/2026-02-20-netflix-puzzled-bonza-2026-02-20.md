@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 운동과 피트니스 관련 영어 표현을 배워보는 시간을 가져보겠습니다. "Just as an Exercise"라는 테마로 준비된 오늘의 퍼즐에는 우리가 일상에서 자주 접하지만 정확한 영어 표현을 모를 수 있는 운동 용어들이 가득합니다. 헬스장에서, 운동 영상에서, 혹은 영어로 된 피트니스 앱에서 마주칠 수 있는 이 단어들을 함께 알아볼까요?
 

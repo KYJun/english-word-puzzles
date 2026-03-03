@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 많은 사람들이 사랑하는 간식, **쿠키(Cookie)**에 관련된 영어 단어들을 함께 배워보겠습니다. 쿠키는 전 세계에서 사랑받는 디저트이며, 각 종류마다 독특한 이름과 특징을 가지고 있습니다. 이번 포스트에서는 쿠키의 다양한 종류를 나타내는 영어 표현들을 살펴보면서 자연스럽게 영어를 습득해보겠습니다. 쿠키 문화를 통해 배우는 영어는 정말 맛있는 학습이 될 거예요!
 

@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 이탈리아 요리의 대표 음식인 **파스타(Pasta)**에 관련된 영어 표현들을 함께 배워보겠습니다. 파스타는 단순히 맛있는 음식일 뿐만 아니라, 영어권 국가에서도 매우 인기 있는 요리이기 때문에 관련 어휘를 알아두면 일상 회화나 요리 관련 콘텐츠를 이해할 때 큰 도움이 됩니다. 오늘의 단어들을 통해 다양한 파스타 종류와 그에 얽힌 영어 표현들을 살펴봅시다!
 

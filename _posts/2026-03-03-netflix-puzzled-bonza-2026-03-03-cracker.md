@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 "cracker of a puzzle"이라는 재미있는 테마로 영어 어휘를 배워보겠습니다. 이 표현은 "정말 어려운 퍼즐" 또는 "정말 멋진 것"이라는 뜻인데, 여기서는 각종 크래커(cracker)와 관련된 단어들을 중심으로 영어 표현을 살펴보겠습니다. 일상에서 자주 접하는 스낵과 음식 관련 어휘들이니, 재미있게 배워보세요! 🍘
 

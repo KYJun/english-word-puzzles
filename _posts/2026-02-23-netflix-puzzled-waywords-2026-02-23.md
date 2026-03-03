@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 현대 음악 역사에서 매우 중요한 역할을 해온 **인디 뮤지션들(Indie Musicians)**에 대해 함께 배워보겠습니다. 인디 음악은 메이저 레이블의 지원 없이 독립적으로 활동하는 아티스트들을 지칭하며, 이들은 상업적 성공보다는 **예술적 자유**와 **창의성**을 우선시하는 경향이 있습니다. 오늘 배울 단어들은 모두 이러한 인디 음악 씬의 대표적인 밴드들이자, 영어권 음악 문화를 이해하는 데 중요한 키워드들입니다.
 

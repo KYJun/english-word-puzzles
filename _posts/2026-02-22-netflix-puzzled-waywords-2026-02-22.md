@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Waywords 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 바다에 사는 다양한 생물들을 영어로 배워보는 시간입니다. 바다는 지구 표면의 약 71%를 차지하고 있으며, 수많은 생명체가 살고 있는 신비로운 공간이죠. 특히 **saltwater fish(해수 물고기)**들은 인간의 식량 자원으로도 중요하고, 생태계의 균형을 유지하는 데 핵심적인 역할을 합니다. 오늘 배울 여섯 가지 해양 생물들을 통해 해양 생물학 관련 영어 표현을 함께 살펴보겠습니다.
 

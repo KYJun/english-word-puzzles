@@ -10,7 +10,7 @@ toc_label: "목차"
 toc_sticky: true
 ---
 
-> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/app/netflix-puzzled/id6740537376) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Puzzled) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
+> 🎮 **[Netflix Puzzled에서 Bonza 플레이하기](https://www.netflix.com/tudum/puzzled)** | 📱 [iOS](https://apps.apple.com/us/app/netflix-puzzled/id6742752351) · [Android](https://play.google.com/store/apps/details?id=com.netflix.NGP.Pandora) > > 각 게임의 규칙과 플레이 방법은 [소개 페이지](/about/)에서 확인할 수 있습니다.
 
 안녕하세요! 오늘은 **"Papers, Please!"** 테마로 준비된 영어 단어들을 함께 학습해보겠습니다. 이 테마는 우리가 일상에서 자주 마주치는 서류, 문서, 그리고 관련된 업무 환경에 대한 어휘들을 다룹니다. 대학생활을 하면서 과제 제출, 증명서 발급, 건설 현장 허가 등 다양한 상황에서 이런 단어들이 실제로 사용되니까요. 지금부터 함께 알아볼까요?
 
