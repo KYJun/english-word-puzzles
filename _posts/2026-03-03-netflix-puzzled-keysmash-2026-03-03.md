@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Keysmash 2026-03-03 마스크를 쓴 사람들"
+title: "Netflix Puzzled Keysmash (2026-03-03) 마스크를 쓴 사람들"
 date: 2026-03-03
 categories: [Keysmash]
 tags: [Keysmash, Netflix, 영어단어]

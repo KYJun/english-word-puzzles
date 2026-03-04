@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza 2026-03-03 | Cracker 테마로 배우는 스낵 영어"
+title: "Netflix Puzzled Bonza (2026-03-03) Cracker 테마로 배우는 스낵 영어"
 date: 2026-03-03
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]

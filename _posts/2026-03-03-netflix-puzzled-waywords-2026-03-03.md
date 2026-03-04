@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Waywords 2026-03-03 | 마피아 영화로 배우는 범죄 영화 영어"
+title: "Netflix Puzzled Waywords (2026-03-03) 마피아 영화로 배우는 범죄 영화 영어"
 date: 2026-03-03
 categories: [Waywords]
 tags: [Waywords, Netflix, 영어단어]

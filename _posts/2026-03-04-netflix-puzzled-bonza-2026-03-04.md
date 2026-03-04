@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza (2026-03-04) - "
+title: "Netflix Puzzled Bonza (2026-03-04) - CAP"
 date: 2026-03-04
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]
