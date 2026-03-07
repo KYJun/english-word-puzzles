@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza (2026-03-07) - "
+title: "Netflix Puzzled Bonza (2026-03-07) - Earn Interest"
 date: 2026-03-07
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]

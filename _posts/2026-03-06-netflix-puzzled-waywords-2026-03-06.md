@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Waywords (2026-03-06)"
+title: "Netflix Puzzled Waywords (2026-03-06) - Gems"
 date: 2026-03-06
 categories: [Waywords]
 tags: [Waywords, Netflix, 영어단어]

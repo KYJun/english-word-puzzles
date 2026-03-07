@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Bonza (2026-03-06) - "
+title: "Netflix Puzzled Bonza (2026-03-06) - What Run Might Mean"
 date: 2026-03-06
 categories: [Bonza]
 tags: [Bonza, Netflix, 영어단어]

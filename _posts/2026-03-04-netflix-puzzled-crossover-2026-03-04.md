@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Crossover #? (2026-03-04)"
+title: "Netflix Puzzled Crossover #99 (2026-03-04)"
 date: 2026-03-04
 categories: [Crossover]
 tags: [Crossover, Netflix, 영어단어]

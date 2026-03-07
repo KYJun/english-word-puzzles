@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Waywords (2026-03-05) - "
+title: "Netflix Puzzled Waywords (2026-03-05) - Hot Potato"
 date: 2026-03-05
 categories: [Waywords]
 tags: [Waywords, Netflix, 영어단어]

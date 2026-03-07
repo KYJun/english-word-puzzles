@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Netflix Puzzled Waywords (2026-03-07) - "
+title: "Netflix Puzzled Waywords (2026-03-07) - Kubrick Movies"
 date: 2026-03-07
 categories: [Waywords]
 tags: [Waywords, Netflix, 영어단어]
